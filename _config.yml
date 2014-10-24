@@ -1,0 +1,4 @@
+
+exclude: Gemfile, Gemfile.lock
+timezone: Australia/Perth
+encoding: utf-8
